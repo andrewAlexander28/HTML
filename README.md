@@ -8,10 +8,18 @@ Introduction
   
 Captures
 number greater than zero
+
+
 ![](https://github.com/andrewAlexander28/HTML/blob/main/Image%201.png)
 
 number equal to zero
+
+
+
 ![](https://github.com/andrewAlexander28/HTML/blob/main/Image%202.png)
 
 number less than zero
+
+
+
 ![](https://github.com/andrewAlexander28/HTML/blob/main/Image%203.png)
